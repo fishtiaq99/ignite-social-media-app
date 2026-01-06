@@ -43,6 +43,7 @@ SDA_PROJECT1/
 
 ## Documentation
 The complete project documentation is available in the `docs` folder:
+- SDA_Final_Report
 - IGNITE_M3.pdf (Use Cases)
 - IGNITE_M4.pdf (Sequence Diagrams)
 - IGNITE_M5.pdf (Class Diagrams)
